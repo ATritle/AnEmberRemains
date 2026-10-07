@@ -1,0 +1,30 @@
+MARA WALK / RUN / SPELLS — 2026-10-07
+
+Mara-Walk-Run-Spells.mp4: actual packaged gameplay, 1280x800, H.264 MP4,
+15 FPS, 526 frames (35.07 seconds), no audio.
+Current playable artwork uses natural width and +6% height.
+The split-robe candidate is NOT used in this gameplay recording.
+
+Chapters:
+00:00 Idle
+00:02 Walk
+00:08 Run
+00:14 Arcane Bolt
+00:17.5 Flamethrower
+00:21 Ice Ring
+00:24.5 Lightning (cast while the protective ring is still present)
+00:28 Frost Nova
+00:31.5 Mend
+
+The separate split-robe animation study can be downloaded and opened locally:
+ArtSource/MaraVey/v2/Motion-review.html
+It embeds its images and needs no installation or network connection.
+These study poses are not final or integrated into the game.
+
+Reproduce:
+Package with Tools/package_cloisters.ps1.
+Run the Shipping EXE with -MaraPreview -SpellCapture -RenderOffscreen -windowed
+-ForceRes -ResX=1280 -ResY=800 -nosound -unattended
+-UserDir="<project>/Saved/MaraPreviewCapture"
+Run Tools/encode_mara_preview.py in Blender 5.2 background mode.
+Regression: ISO_VERIFY checks=649866 errors=0.
