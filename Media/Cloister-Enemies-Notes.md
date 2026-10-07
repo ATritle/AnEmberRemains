@@ -21,3 +21,5 @@ All five use eight screen-space directions, each with six frames for idle, walk,
 The atlas reviewer is Media/Cloister-Enemies-Preview.html. Download and open locally; it is self-contained. Exact built-in image-generation prompts and original transparent source atlases are under ArtSource/Enemies/v1. Original artwork is not rewritten; measured transparent gutters define texture regions. Every action uses its type's idle-derived uniform scale to avoid inflating crouches or corpses.
 
 Run Play-Standalone.cmd for the combat playtest. Use -NoEnemies to retain environment-only exploration. Existing Mara/spell/environment capture flags remain isolated from encounters. -IsoReview -EnemyReview creates a staged in-dungeon roster screenshot; this is visual review, not an AI encounter.
+
+Guard attack revision: right-hand mace and left-arm shield remain consistent through all eight facings. The Guard now uses a short right-handed thrust with its shield braced; the hand-swapping overhead windup was replaced.
