@@ -27,3 +27,5 @@ Guard swing revision: twelve poses per direction replace the short thrust with a
 Download Guard-Swing-Preview.zip, extract it, and open Guard-Swing-Preview.html in a browser. It works offline. Select Attack, use Pause and Next frame, and compare all eight directions below. The twelve-frame east attack includes a one-frame impact hold. Reliquary-Guard-Attack.png shows the south-facing twelve-frame sequence.
 
 Validation: final Windows Shipping build succeeded; packaged regression verification completed 705,996 checks with zero errors, including all attack frames, direction-specific impact timing, texture bounds, cooked assets and combat behavior.
+
+Focused review correction: north frames 8–10 now extend the right arm and mace away from the camera toward north, with foreshortening above the right shoulder. East frame 5 now raises the visible right arm continuously between frames 4 and 6; the left arm retains the shield. The other six directional source sheets are unchanged. Exact edit prompts and before images are archived in ArtSource/Enemies/v4/Guard-Corrections.
