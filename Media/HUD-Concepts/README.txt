@@ -1,5 +1,11 @@
 AER HUD CONCEPTS — 2026-10-07
 
+SELECTED DIRECTION: B, Ember Astrolabe. The user prefers the lower-left round
+health/mana HUD with the spell ribbon extending from it, at a smaller size.
+B-Ember-Astrolabe-Compact-v2.png refines that layout with a target 25% reduction
+in linear dimensions. Generated as a targeted edit of the original B concept.
+The original concepts remain available for comparison. No playable HUD changes.
+
 A: Left Reliquary — a single vertical spell column under paired resource vessels.
 B: Ember Astrolabe — curved gauges and spell fan grouped in the lower-left corner.
 C: Split Seals — upper-left vitals and a right-side 2-by-3 spell grid.
