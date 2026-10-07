@@ -1,0 +1,30 @@
+AN EMBER REMAINS — AUDIO CREDITS
+
+RPG Sound Pack by artisticdude
+https://opengameart.org/content/rpg-sound-pack
+Download: https://opengameart.org/sites/default/files/rpg_sound_pack.zip
+
+Teleport Spell by Ogrebane
+https://opengameart.org/content/teleport-spell
+Download: https://opengameart.org/sites/default/files/teleport.wav
+
+Freeze Spell by artisticdude
+https://opengameart.org/content/freeze-spell-0
+Download: https://opengameart.org/sites/default/files/freeze.wav
+
+All three source pages list CC0 (verified 2026-10-07).
+CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
+Legal text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+Adaptations include mono conversion, trimming, gain normalization, playback
+rate changes, selected fragments, reversal, and short room echoes.
+The footsteps combine the RPG pack's small wooden impact with authored
+stone transients. Dungeon wind, water-drop resonators, candle/fire textures,
+and electrical buzz layers were synthesized specifically for this project.
+
+Original files, exact preparation code, and per-asset derivation records:
+ArtSource/Audio/v1/Originals
+ArtSource/Audio/v1/manifest.json
+Tools/prepare_dungeon_audio.py
+
+No creature sounds are used to imply enemies in the current environment test.

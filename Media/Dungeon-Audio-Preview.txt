@@ -1,0 +1,31 @@
+AN EMBER REMAINS - DUNGEON AUDIO PREVIEW - 2026-10-07
+
+Dungeon-Audio-Preview.wav is the real packaged game's stereo master output,
+48 kHz PCM16. Listen at normal volume; ambience is intentionally subtle.
+
+Approximate sequence:
+0-2 s: dungeon ambience
+2-8 s: walk
+8-14 s: run
+14-17.5 s: arcane bolt
+17.5-21 s: flamethrower
+21-24.5 s: ice ring
+24.5-28 s: lightning
+28-31.5 s: frost nova
+31.5-35 s: mend
+35.2 s: phase
+36.2 s: dodge
+37-37.4 s: pause test
+37.6-38.1 s: mute test
+
+This audio-only review runs in real time and includes extra movement/control
+checks. It is not frame-synchronized to the older silent Mara video.
+
+Gameplay: F10 toggles sound. Steps follow distance traveled, with varied
+impacts and cloth. Fire/lightning loops fade out when channeling ends.
+Dungeon wind, water drips and nearby candle crackle form the ambient layer.
+
+Sources, authors, licenses and processing: Dungeon-Audio-Credits.txt.
+Validation: 650,546 packaged regression checks, zero errors; 24 sound assets;
+recording has signal in each reviewed action, no clipped samples, and silent
+pause/mute windows. This is an initial audio pass for user listening review.
