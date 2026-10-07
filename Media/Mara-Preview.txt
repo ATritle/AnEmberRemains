@@ -27,4 +27,9 @@ Run the Shipping EXE with -MaraPreview -SpellCapture -RenderOffscreen -windowed
 -ForceRes -ResX=1280 -ResY=800 -nosound -unattended
 -UserDir="<project>/Saved/MaraPreviewCapture"
 Run Tools/encode_mara_preview.py in Blender 5.2 background mode.
-Regression: ISO_VERIFY checks=649866 errors=0.
+Regression: ISO_VERIFY checks=649922 errors=0.
+
+Updated channel poses: flamethrower and lightning now hold the normal cast
+release frame with the same scale, lighting and measured crystal anchor.
+Mara-Cast-Consistency.png compares idle, cast, flame and lightning in eight
+directions. All three casting columns are pixel-identical before effects.
