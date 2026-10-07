@@ -10,26 +10,32 @@ Chapters:
 00:02 Walk
 00:08 Run
 00:14 Arcane Bolt
-00:17.5 Flamethrower
+00:17.5 Flamethrower — restored three-pose channel loop
 00:21 Ice Ring
-00:24.5 Lightning (cast while the protective ring is still present)
+00:24.5 Lightning — ring shatters first so the beam can extend
 00:28 Frost Nova
 00:31.5 Mend
+
+Channel motion is restored with a uniform .85/.90 scale per facing,
+shared scene lighting and a measured hair-palette correction. The crystal
+anchor follows every frame. Both beam effects extend from the crystal
+parallel to aim, without converging toward a feet-relative endpoint.
+Normal collision and damage rules remain unchanged.
+
+Mara-Cast-Consistency.png compares idle, cast, flame and lightning in eight
+directions. Channel poses are animated, so they differ from the normal
+release pose; they no longer use the oversized bright presentation.
 
 The separate split-robe animation study can be downloaded and opened locally:
 ArtSource/MaraVey/v2/Motion-review.html
 It embeds its images and needs no installation or network connection.
 These study poses are not final or integrated into the game.
 
-Reproduce:
+Reproduce using the local development workspace:
 Package with Tools/package_cloisters.ps1.
 Run the Shipping EXE with -MaraPreview -SpellCapture -RenderOffscreen -windowed
 -ForceRes -ResX=1280 -ResY=800 -nosound -unattended
 -UserDir="<project>/Saved/MaraPreviewCapture"
 Run Tools/encode_mara_preview.py in Blender 5.2 background mode.
-Regression: ISO_VERIFY checks=649922 errors=0.
-
-Updated channel poses: flamethrower and lightning now hold the normal cast
-release frame with the same scale, lighting and measured crystal anchor.
-Mara-Cast-Consistency.png compares idle, cast, flame and lightning in eight
-directions. All three casting columns are pixel-identical before effects.
+Regression: ISO_VERIFY checks=650450 errors=0.
+GitHub contains the preview artifacts; current development changes remain local.
