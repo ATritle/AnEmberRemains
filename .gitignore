@@ -7,3 +7,6 @@
 *.sln
 *.pdb
 *.log
+/LocalHistory/
+__pycache__/
+*.pyc

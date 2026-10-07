@@ -1,0 +1,17 @@
+Generated with the built-in image-generation tool on 2026-10-07.
+Identity reference: ArtSource/MaraVey/v1/Mara_SE.png (existing project artwork).
+No Magicka artwork was copied; the supplied gameplay video was used as behavioral reference.
+
+Prompt: 24 full-body transparent sprite poses, 3 columns x 8 rows in N, NE, E,
+SE, S, SW, W, NW order. Exact same adult slender redhead Mara; charcoal silver-
+embroidered coat, trousers, boots, silver-fork teal-crystal staff. Three sustained
+two-hand staff-channel poses per direction: brace, subtle recoil/cloth flutter,
+settle. Planted feet, same scale, no spell or ground shadow baked in.
+Follow-up: remove background and colored halo without changing characters.
+
+The final generated alpha still contained low-opacity haze. With the user's
+existing permission for local sprite cleanup, repack_channel.py isolates measured
+connected silhouettes and preserves their RGB, aligns foot pivots, normalizes
+body height, and measures each teal staff crystal. Original source preserved.
+Runtime uses a four-step 0,1,2,1 channel loop, seven poses per second.
+These are first-pass game sprites, not hand-keyed high-frame-count animation.

@@ -1,0 +1,78 @@
+AN EMBER REMAINS - PROJECT HANDOFF - 2026-10-07
+
+Canonical workspace: C:\dev\An Ember Remains
+Git remote: https://github.com/ATritle/AnEmberRemains.git
+Original backup: C:\Users\tritl\Documents\Codex\AnEmberRemains
+This is independent of The Beard and Blade and its version/release history.
+Work here going forward. Do not modify TBAB to implement Ember features.
+Migration copied the full project including uncommitted source/art, .git,
+packaged tests, caches and review evidence. All 3,760 files matched SHA-256
+before destination-only changes. The old workspace was not deleted.
+
+STORY
+Design/Story.md is the complete user-supplied story and contains ending spoilers.
+Mara Vey, a red-haired curse worker and spellcaster, seeks her younger sister
+Elin beneath the Keepers of the Vigil's cathedral. Elin's surviving ember guides
+Mara into the soul-fueled Crucible before the Great Kindling. This is NOT the
+earlier Beard and Blade adventurer/love/tea story. All five story regions and
+named bosses are design plans, not implemented campaign content.
+
+CURRENT GAME
+UE 5.8 C++ game, 2D isometric art projected in a custom Canvas HUD renderer.
+Continuous BSP/connected Hushed Cloisters floors, wider rooms/corridors,
+foreground-only wall fading, small circular explored minimap, clue parchment,
+dressed tombs/relics/infirmary, tight prop collisions, rats, wet/stained floors,
+candle flicker, mist and a recessed stair entrance to the next same-theme floor.
+No active enemy population in the current environment test. No completed save
+system or boss campaign. Layered environment lighting is not true 3D volume fog.
+
+MARA
+Eight directions: N NE E SE S SW W NW. Idle, walk, run, cast, dodge and archived
+roll poses. Lean display proportions (+18% height / -8% width) approved.
+Space replaces roll with fast blue-mist phase (invulnerable during phase).
+Alt remains non-invulnerable dodge. Swept collision prevents passing walls.
+Measured feet and crystal anchors in MaraArtMetrics/MaraCastMetrics/
+MaraChannelMetrics. Preserve those and the staff artwork. Do not uniformly
+slice raw overlapping sheets. ArtSource preserves raw art/crops/prompts.
+
+SPELLS
+1/LMB Arcane Bolt. Hold 2 Flamethrower. 3 Ice Ring, press again to shatter.
+Hold 4 Lightning. 5 Frost Nova. 6 Mend. Cursor aims directional casts.
+Actual Niagara systems with custom procedural/flipbook sprite materials,
+captured to front/back render targets and composited into the isometric renderer.
+Flames: 16-frame RGBA flipbook with rolling fire and dark smoke; staff-tip origin
+checked in all eight directions. Preserve the user's approved visual quality.
+Ice: layered jagged chunks grow around Mara, rear behind her/front over legs.
+Six-second stationary ring protects only within 1.45 tile core. Ring at 1.7
+tiles blocks traversal/projectiles. Press 3 to shatter without cooldown reset.
+Frost Nova: 45 damage, radius 3.2, LOS checked, 55% slow for 2.5 sec independent
+of hit flash; expanding cold clouds. Area spells follow a staff-crystal flash.
+ArtSource/Spells/v2/README.txt documents implementation and provenance.
+
+BUILD / TEST
+Tools/package_cloisters.ps1 accepts -EngineRoot and packages Shipping to
+Builds/HushedCloisters/Windows. Play-Standalone.cmd needs no UE for the player.
+Play-An-Ember-Remains.cmd launches editor-based test and requires UE 5.8.
+Shipping exe supports -IsoVerify -nullrhi -nosound -unattended -UserDir=<QA>.
+Latest spell regression: 649,866 checks, zero errors.
+-SpellReview -SpellCapture -RenderOffscreen captures actual 15 FPS sequence;
+Tools/encode_spell_preview.py runs in Blender to encode frames into MP4.
+-IsoReview -ReviewAt=4.5 -SpellReview -SpellFacing=0..7 checks flame attachment.
+Source changes require build/cook; edits to imported atlases require reimport.
+
+BRANDING
+Media/Branding: title key art, transparent wordmark, JPG thumbnails, PNG icons,
+multi-resolution ICO. ArtSource/Branding/v1 preserves masters and exact prompts.
+Build/Windows/Application.ico is the UE application icon. These are promotional
+assets, not a new functional title menu. Actual gameplay preview is separate.
+
+CONVERSATION
+Original chat ID: 01a0bffb-e891-7110-bda7-4f3879f2880b.
+LocalHistory contains a private archive, ignored by Git. Do not upload it.
+That archive is not an imported native Codex conversation. Available app tools
+do not provide a move-to-project operation for this existing chat. User was
+asked whether to move it in the UI or create a continuation with this handoff.
+
+NEXT
+Continue visual gameplay review, then populate the first floor with Ember-
+appropriate enemies and tune spells. Do not claim the designed bosses exist.

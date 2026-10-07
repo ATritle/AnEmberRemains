@@ -3,5 +3,6 @@
   "EngineAssociation": "5.8",
   "Category": "Games",
   "Description": "An Ember Remains - dark magic isometric dungeon crawler",
-  "Modules": [{"Name":"AnEmberRemains","Type":"Runtime","LoadingPhase":"Default"}]
+  "Modules": [{"Name":"AnEmberRemains","Type":"Runtime","LoadingPhase":"Default"}],
+  "Plugins": [{"Name":"PythonScriptPlugin","Enabled":true,"TargetAllowList":["Editor"]},{"Name":"EditorScriptingUtilities","Enabled":true,"TargetAllowList":["Editor"]}]
 }

@@ -1,0 +1,20 @@
+An Ember Remains - branding v1
+
+title-1920x1080.jpg: title/key art for a future menu or promotional page.
+thumbnail-1280x720.jpg and thumbnail-640x360.jpg: promotional thumbnails.
+title-logo.png: transparent standalone title wordmark.
+icon-16 through icon-512.png: transparent Windows/web/avatar icon variants.
+AnEmberRemains.ico: embedded 16/24/32/48/64/128/256 px Windows icon.
+Build/Windows/Application.ico: matching UE Windows application resource.
+AnEmberRemains.png (project root): UE project browser thumbnail.
+
+Concept art, not a gameplay screenshot. Actual gameplay previews live in Media.
+The crack in the bell shelters Elin's ember; the key art shows Mara following
+that ember below the cathedral. See Design/Story.md for the canonical backstory.
+
+Generated using the built-in image-generation tool. Masters and exact prompts:
+ArtSource/Branding/v1/{title,icon,logo}-master.png and matching *-prompt.txt.
+Mara's existing sprite sheet was the character reference for the title art.
+Tools/export_branding.py performs size/format conversion only, preserving alpha.
+Generated masters are 1672x941 title/logo and 1280x1280 icon; 1920x1080 export
+is a resized derivative, not a claim of native 4K artwork.

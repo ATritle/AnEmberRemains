@@ -1,0 +1,7274 @@
+[
+  {
+    "direction": "N",
+    "width": 2304,
+    "height": 1920,
+    "scale": 0.5185185185185185,
+    "sourceSHA256": "d81f6226eca1b14753d4009575be4fbd1eb8e1d39ffe31b3568f5255abf36c04",
+    "frames": [
+      {
+        "rect": [
+          0,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 0,
+        "sourceRect": [
+          56,
+          9,
+          129,
+          214
+        ],
+        "sourcePivot": [
+          64,
+          212
+        ],
+        "retainedPixels": 18217
+      },
+      {
+        "rect": [
+          384,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 1,
+        "sourceRect": [
+          249,
+          9,
+          125,
+          216
+        ],
+        "sourcePivot": [
+          65,
+          214
+        ],
+        "retainedPixels": 18058
+      },
+      {
+        "rect": [
+          768,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 2,
+        "sourceRect": [
+          445,
+          9,
+          125,
+          216
+        ],
+        "sourcePivot": [
+          63,
+          214
+        ],
+        "retainedPixels": 18307
+      },
+      {
+        "rect": [
+          1152,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 3,
+        "sourceRect": [
+          638,
+          9,
+          125,
+          215
+        ],
+        "sourcePivot": [
+          61,
+          213
+        ],
+        "retainedPixels": 18149
+      },
+      {
+        "rect": [
+          1536,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 4,
+        "sourceRect": [
+          843,
+          9,
+          130,
+          216
+        ],
+        "sourcePivot": [
+          62,
+          214
+        ],
+        "retainedPixels": 18361
+      },
+      {
+        "rect": [
+          1920,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 5,
+        "sourceRect": [
+          1045,
+          9,
+          131,
+          216
+        ],
+        "sourcePivot": [
+          68,
+          214
+        ],
+        "retainedPixels": 18521
+      },
+      {
+        "rect": [
+          0,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 0,
+        "sourceRect": [
+          41,
+          215,
+          138,
+          227
+        ],
+        "sourcePivot": [
+          74,
+          225
+        ],
+        "retainedPixels": 17968
+      },
+      {
+        "rect": [
+          384,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 1,
+        "sourceRect": [
+          239,
+          215,
+          136,
+          230
+        ],
+        "sourcePivot": [
+          71,
+          228
+        ],
+        "retainedPixels": 17880
+      },
+      {
+        "rect": [
+          768,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 2,
+        "sourceRect": [
+          455,
+          217,
+          121,
+          229
+        ],
+        "sourcePivot": [
+          57,
+          227
+        ],
+        "retainedPixels": 16205
+      },
+      {
+        "rect": [
+          1152,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 3,
+        "sourceRect": [
+          649,
+          216,
+          126,
+          224
+        ],
+        "sourcePivot": [
+          59,
+          222
+        ],
+        "retainedPixels": 17351
+      },
+      {
+        "rect": [
+          1536,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 4,
+        "sourceRect": [
+          825,
+          217,
+          144,
+          227
+        ],
+        "sourcePivot": [
+          72,
+          225
+        ],
+        "retainedPixels": 18289
+      },
+      {
+        "rect": [
+          1920,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 5,
+        "sourceRect": [
+          1053,
+          215,
+          121,
+          229
+        ],
+        "sourcePivot": [
+          60,
+          227
+        ],
+        "retainedPixels": 17253
+      },
+      {
+        "rect": [
+          0,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 0,
+        "sourceRect": [
+          47,
+          433,
+          137,
+          211
+        ],
+        "sourcePivot": [
+          70,
+          209
+        ],
+        "retainedPixels": 17830
+      },
+      {
+        "rect": [
+          384,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 1,
+        "sourceRect": [
+          225,
+          434,
+          156,
+          210
+        ],
+        "sourcePivot": [
+          87,
+          208
+        ],
+        "retainedPixels": 17746
+      },
+      {
+        "rect": [
+          768,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 2,
+        "sourceRect": [
+          431,
+          433,
+          148,
+          215
+        ],
+        "sourcePivot": [
+          73,
+          213
+        ],
+        "retainedPixels": 16829
+      },
+      {
+        "rect": [
+          1152,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 3,
+        "sourceRect": [
+          622,
+          435,
+          157,
+          213
+        ],
+        "sourcePivot": [
+          81,
+          211
+        ],
+        "retainedPixels": 18186
+      },
+      {
+        "rect": [
+          1536,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 4,
+        "sourceRect": [
+          817,
+          434,
+          169,
+          214
+        ],
+        "sourcePivot": [
+          88,
+          212
+        ],
+        "retainedPixels": 19091
+      },
+      {
+        "rect": [
+          1920,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 5,
+        "sourceRect": [
+          1036,
+          431,
+          145,
+          211
+        ],
+        "sourcePivot": [
+          70,
+          209
+        ],
+        "retainedPixels": 17180
+      },
+      {
+        "rect": [
+          0,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 0,
+        "sourceRect": [
+          41,
+          647,
+          143,
+          198
+        ],
+        "sourcePivot": [
+          76,
+          196
+        ],
+        "retainedPixels": 18258
+      },
+      {
+        "rect": [
+          384,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 1,
+        "sourceRect": [
+          238,
+          673,
+          156,
+          168
+        ],
+        "sourcePivot": [
+          77,
+          166
+        ],
+        "retainedPixels": 17533
+      },
+      {
+        "rect": [
+          768,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 2,
+        "sourceRect": [
+          428,
+          647,
+          160,
+          177
+        ],
+        "sourcePivot": [
+          69,
+          175
+        ],
+        "retainedPixels": 15656
+      },
+      {
+        "rect": [
+          1152,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 3,
+        "sourceRect": [
+          611,
+          662,
+          204,
+          181
+        ],
+        "sourcePivot": [
+          103,
+          179
+        ],
+        "retainedPixels": 18276
+      },
+      {
+        "rect": [
+          1536,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 4,
+        "sourceRect": [
+          828,
+          649,
+          177,
+          196
+        ],
+        "sourcePivot": [
+          86,
+          194
+        ],
+        "retainedPixels": 18472
+      },
+      {
+        "rect": [
+          1920,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 5,
+        "sourceRect": [
+          1052,
+          641,
+          129,
+          205
+        ],
+        "sourcePivot": [
+          62,
+          203
+        ],
+        "retainedPixels": 17884
+      },
+      {
+        "rect": [
+          0,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 0,
+        "sourceRect": [
+          60,
+          859,
+          125,
+          184
+        ],
+        "sourcePivot": [
+          62,
+          182
+        ],
+        "retainedPixels": 15505
+      },
+      {
+        "rect": [
+          384,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 1,
+        "sourceRect": [
+          246,
+          866,
+          147,
+          141
+        ],
+        "sourcePivot": [
+          73,
+          139
+        ],
+        "retainedPixels": 13957
+      },
+      {
+        "rect": [
+          768,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 2,
+        "sourceRect": [
+          441,
+          839,
+          133,
+          180
+        ],
+        "sourcePivot": [
+          66,
+          178
+        ],
+        "retainedPixels": 13996
+      },
+      {
+        "rect": [
+          1152,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 3,
+        "sourceRect": [
+          638,
+          864,
+          140,
+          154
+        ],
+        "sourcePivot": [
+          70,
+          152
+        ],
+        "retainedPixels": 14735
+      },
+      {
+        "rect": [
+          1536,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 4,
+        "sourceRect": [
+          851,
+          872,
+          162,
+          163
+        ],
+        "sourcePivot": [
+          81,
+          161
+        ],
+        "retainedPixels": 16258
+      },
+      {
+        "rect": [
+          1920,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 5,
+        "sourceRect": [
+          1046,
+          841,
+          136,
+          205
+        ],
+        "sourcePivot": [
+          68,
+          203
+        ],
+        "retainedPixels": 17719
+      },
+      {
+        "rect": [
+          0,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 0,
+        "sourceRect": [
+          54,
+          1047,
+          132,
+          211
+        ],
+        "sourcePivot": [
+          67,
+          209
+        ],
+        "retainedPixels": 18397
+      },
+      {
+        "rect": [
+          384,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 1,
+        "sourceRect": [
+          235,
+          1020,
+          153,
+          241
+        ],
+        "sourcePivot": [
+          79,
+          239
+        ],
+        "retainedPixels": 19096
+      },
+      {
+        "rect": [
+          768,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 2,
+        "sourceRect": [
+          423,
+          1019,
+          170,
+          244
+        ],
+        "sourcePivot": [
+          84,
+          242
+        ],
+        "retainedPixels": 18503
+      },
+      {
+        "rect": [
+          1152,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 3,
+        "sourceRect": [
+          629,
+          1019,
+          165,
+          240
+        ],
+        "sourcePivot": [
+          82,
+          238
+        ],
+        "retainedPixels": 18417
+      },
+      {
+        "rect": [
+          1536,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 4,
+        "sourceRect": [
+          847,
+          1049,
+          160,
+          206
+        ],
+        "sourcePivot": [
+          76,
+          204
+        ],
+        "retainedPixels": 19341
+      },
+      {
+        "rect": [
+          1920,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 5,
+        "sourceRect": [
+          1045,
+          1043,
+          136,
+          215
+        ],
+        "sourcePivot": [
+          69,
+          213
+        ],
+        "retainedPixels": 18811
+      }
+    ]
+  },
+  {
+    "direction": "NE",
+    "width": 2304,
+    "height": 1920,
+    "scale": 0.5233644859813084,
+    "sourceSHA256": "57bf225b4562ac18174d3f92861e19d6f55a90d2c198b8ca98dfe036ad3c0a7d",
+    "frames": [
+      {
+        "rect": [
+          0,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 0,
+        "sourceRect": [
+          32,
+          5,
+          132,
+          218
+        ],
+        "sourcePivot": [
+          64,
+          216
+        ],
+        "retainedPixels": 17791
+      },
+      {
+        "rect": [
+          384,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 1,
+        "sourceRect": [
+          232,
+          10,
+          131,
+          213
+        ],
+        "sourcePivot": [
+          65,
+          211
+        ],
+        "retainedPixels": 18249
+      },
+      {
+        "rect": [
+          768,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 2,
+        "sourceRect": [
+          435,
+          11,
+          135,
+          212
+        ],
+        "sourcePivot": [
+          67,
+          210
+        ],
+        "retainedPixels": 18330
+      },
+      {
+        "rect": [
+          1152,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 3,
+        "sourceRect": [
+          639,
+          8,
+          135,
+          215
+        ],
+        "sourcePivot": [
+          69,
+          213
+        ],
+        "retainedPixels": 18135
+      },
+      {
+        "rect": [
+          1536,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 4,
+        "sourceRect": [
+          849,
+          9,
+          133,
+          214
+        ],
+        "sourcePivot": [
+          67,
+          212
+        ],
+        "retainedPixels": 18172
+      },
+      {
+        "rect": [
+          1920,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 5,
+        "sourceRect": [
+          1062,
+          9,
+          135,
+          214
+        ],
+        "sourcePivot": [
+          67,
+          212
+        ],
+        "retainedPixels": 17910
+      },
+      {
+        "rect": [
+          0,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 0,
+        "sourceRect": [
+          28,
+          227,
+          150,
+          211
+        ],
+        "sourcePivot": [
+          68,
+          209
+        ],
+        "retainedPixels": 17243
+      },
+      {
+        "rect": [
+          384,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 1,
+        "sourceRect": [
+          229,
+          227,
+          144,
+          214
+        ],
+        "sourcePivot": [
+          64,
+          212
+        ],
+        "retainedPixels": 17486
+      },
+      {
+        "rect": [
+          768,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 2,
+        "sourceRect": [
+          426,
+          227,
+          154,
+          211
+        ],
+        "sourcePivot": [
+          71,
+          209
+        ],
+        "retainedPixels": 17054
+      },
+      {
+        "rect": [
+          1152,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 3,
+        "sourceRect": [
+          634,
+          226,
+          150,
+          213
+        ],
+        "sourcePivot": [
+          67,
+          211
+        ],
+        "retainedPixels": 17538
+      },
+      {
+        "rect": [
+          1536,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 4,
+        "sourceRect": [
+          838,
+          228,
+          155,
+          210
+        ],
+        "sourcePivot": [
+          72,
+          208
+        ],
+        "retainedPixels": 17596
+      },
+      {
+        "rect": [
+          1920,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 5,
+        "sourceRect": [
+          1043,
+          228,
+          157,
+          211
+        ],
+        "sourcePivot": [
+          70,
+          209
+        ],
+        "retainedPixels": 17204
+      },
+      {
+        "rect": [
+          0,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 0,
+        "sourceRect": [
+          8,
+          437,
+          173,
+          219
+        ],
+        "sourcePivot": [
+          70,
+          217
+        ],
+        "retainedPixels": 18704
+      },
+      {
+        "rect": [
+          384,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 1,
+        "sourceRect": [
+          211,
+          443,
+          185,
+          217
+        ],
+        "sourcePivot": [
+          73,
+          215
+        ],
+        "retainedPixels": 19484
+      },
+      {
+        "rect": [
+          768,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 2,
+        "sourceRect": [
+          418,
+          441,
+          180,
+          215
+        ],
+        "sourcePivot": [
+          64,
+          213
+        ],
+        "retainedPixels": 18830
+      },
+      {
+        "rect": [
+          1152,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 3,
+        "sourceRect": [
+          618,
+          445,
+          180,
+          216
+        ],
+        "sourcePivot": [
+          75,
+          214
+        ],
+        "retainedPixels": 18435
+      },
+      {
+        "rect": [
+          1536,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 4,
+        "sourceRect": [
+          815,
+          447,
+          185,
+          208
+        ],
+        "sourcePivot": [
+          77,
+          206
+        ],
+        "retainedPixels": 18689
+      },
+      {
+        "rect": [
+          1920,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 5,
+        "sourceRect": [
+          1035,
+          437,
+          168,
+          215
+        ],
+        "sourcePivot": [
+          65,
+          213
+        ],
+        "retainedPixels": 17145
+      },
+      {
+        "rect": [
+          0,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 0,
+        "sourceRect": [
+          23,
+          651,
+          154,
+          190
+        ],
+        "sourcePivot": [
+          77,
+          188
+        ],
+        "retainedPixels": 17341
+      },
+      {
+        "rect": [
+          384,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 1,
+        "sourceRect": [
+          220,
+          657,
+          167,
+          189
+        ],
+        "sourcePivot": [
+          89,
+          187
+        ],
+        "retainedPixels": 16771
+      },
+      {
+        "rect": [
+          768,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 2,
+        "sourceRect": [
+          411,
+          651,
+          184,
+          193
+        ],
+        "sourcePivot": [
+          83,
+          191
+        ],
+        "retainedPixels": 17270
+      },
+      {
+        "rect": [
+          1152,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 3,
+        "sourceRect": [
+          602,
+          661,
+          222,
+          202
+        ],
+        "sourcePivot": [
+          86,
+          200
+        ],
+        "retainedPixels": 18326
+      },
+      {
+        "rect": [
+          1536,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 4,
+        "sourceRect": [
+          822,
+          654,
+          190,
+          192
+        ],
+        "sourcePivot": [
+          90,
+          190
+        ],
+        "retainedPixels": 17396
+      },
+      {
+        "rect": [
+          1920,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 5,
+        "sourceRect": [
+          1065,
+          635,
+          140,
+          213
+        ],
+        "sourcePivot": [
+          68,
+          211
+        ],
+        "retainedPixels": 17960
+      },
+      {
+        "rect": [
+          0,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 0,
+        "sourceRect": [
+          36,
+          846,
+          149,
+          183
+        ],
+        "sourcePivot": [
+          74,
+          181
+        ],
+        "retainedPixels": 14656
+      },
+      {
+        "rect": [
+          384,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 1,
+        "sourceRect": [
+          233,
+          860,
+          149,
+          157
+        ],
+        "sourcePivot": [
+          74,
+          155
+        ],
+        "retainedPixels": 14649
+      },
+      {
+        "rect": [
+          768,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 2,
+        "sourceRect": [
+          431,
+          841,
+          145,
+          189
+        ],
+        "sourcePivot": [
+          72,
+          187
+        ],
+        "retainedPixels": 16117
+      },
+      {
+        "rect": [
+          1152,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 3,
+        "sourceRect": [
+          644,
+          864,
+          157,
+          152
+        ],
+        "sourcePivot": [
+          78,
+          150
+        ],
+        "retainedPixels": 14689
+      },
+      {
+        "rect": [
+          1536,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 4,
+        "sourceRect": [
+          827,
+          868,
+          171,
+          165
+        ],
+        "sourcePivot": [
+          85,
+          163
+        ],
+        "retainedPixels": 17045
+      },
+      {
+        "rect": [
+          1920,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 5,
+        "sourceRect": [
+          1067,
+          852,
+          145,
+          194
+        ],
+        "sourcePivot": [
+          72,
+          192
+        ],
+        "retainedPixels": 16700
+      },
+      {
+        "rect": [
+          0,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 0,
+        "sourceRect": [
+          26,
+          1047,
+          153,
+          216
+        ],
+        "sourcePivot": [
+          70,
+          214
+        ],
+        "retainedPixels": 19659
+      },
+      {
+        "rect": [
+          384,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 1,
+        "sourceRect": [
+          221,
+          1036,
+          164,
+          226
+        ],
+        "sourcePivot": [
+          89,
+          224
+        ],
+        "retainedPixels": 19747
+      },
+      {
+        "rect": [
+          768,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 2,
+        "sourceRect": [
+          411,
+          1049,
+          182,
+          213
+        ],
+        "sourcePivot": [
+          77,
+          211
+        ],
+        "retainedPixels": 19600
+      },
+      {
+        "rect": [
+          1152,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 3,
+        "sourceRect": [
+          592,
+          1059,
+          214,
+          200
+        ],
+        "sourcePivot": [
+          84,
+          198
+        ],
+        "retainedPixels": 20599
+      },
+      {
+        "rect": [
+          1536,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 4,
+        "sourceRect": [
+          829,
+          1049,
+          168,
+          209
+        ],
+        "sourcePivot": [
+          91,
+          207
+        ],
+        "retainedPixels": 21416
+      },
+      {
+        "rect": [
+          1920,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 5,
+        "sourceRect": [
+          1059,
+          1051,
+          143,
+          211
+        ],
+        "sourcePivot": [
+          69,
+          209
+        ],
+        "retainedPixels": 18236
+      }
+    ]
+  },
+  {
+    "direction": "E",
+    "width": 2304,
+    "height": 1920,
+    "scale": 0.5233644859813084,
+    "sourceSHA256": "3d610a59e88b7839f01a49fb858b6246d7906ba06a087e0027a1490546b1ae55",
+    "frames": [
+      {
+        "rect": [
+          0,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 0,
+        "sourceRect": [
+          42,
+          10,
+          141,
+          214
+        ],
+        "sourcePivot": [
+          72,
+          212
+        ],
+        "retainedPixels": 18525
+      },
+      {
+        "rect": [
+          384,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 1,
+        "sourceRect": [
+          241,
+          10,
+          138,
+          214
+        ],
+        "sourcePivot": [
+          70,
+          212
+        ],
+        "retainedPixels": 18576
+      },
+      {
+        "rect": [
+          768,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 2,
+        "sourceRect": [
+          444,
+          10,
+          136,
+          214
+        ],
+        "sourcePivot": [
+          66,
+          212
+        ],
+        "retainedPixels": 18413
+      },
+      {
+        "rect": [
+          1152,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 3,
+        "sourceRect": [
+          636,
+          13,
+          139,
+          211
+        ],
+        "sourcePivot": [
+          70,
+          209
+        ],
+        "retainedPixels": 18427
+      },
+      {
+        "rect": [
+          1536,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 4,
+        "sourceRect": [
+          833,
+          10,
+          139,
+          214
+        ],
+        "sourcePivot": [
+          72,
+          212
+        ],
+        "retainedPixels": 18654
+      },
+      {
+        "rect": [
+          1920,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 5,
+        "sourceRect": [
+          1032,
+          12,
+          146,
+          212
+        ],
+        "sourcePivot": [
+          75,
+          210
+        ],
+        "retainedPixels": 18612
+      },
+      {
+        "rect": [
+          0,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 0,
+        "sourceRect": [
+          35,
+          227,
+          156,
+          205
+        ],
+        "sourcePivot": [
+          73,
+          203
+        ],
+        "retainedPixels": 18467
+      },
+      {
+        "rect": [
+          384,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 1,
+        "sourceRect": [
+          234,
+          227,
+          154,
+          205
+        ],
+        "sourcePivot": [
+          73,
+          203
+        ],
+        "retainedPixels": 18508
+      },
+      {
+        "rect": [
+          768,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 2,
+        "sourceRect": [
+          424,
+          226,
+          160,
+          208
+        ],
+        "sourcePivot": [
+          75,
+          206
+        ],
+        "retainedPixels": 18658
+      },
+      {
+        "rect": [
+          1152,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 3,
+        "sourceRect": [
+          625,
+          227,
+          157,
+          206
+        ],
+        "sourcePivot": [
+          78,
+          204
+        ],
+        "retainedPixels": 17963
+      },
+      {
+        "rect": [
+          1536,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 4,
+        "sourceRect": [
+          823,
+          227,
+          164,
+          205
+        ],
+        "sourcePivot": [
+          75,
+          203
+        ],
+        "retainedPixels": 18838
+      },
+      {
+        "rect": [
+          1920,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 5,
+        "sourceRect": [
+          1038,
+          228,
+          150,
+          205
+        ],
+        "sourcePivot": [
+          70,
+          203
+        ],
+        "retainedPixels": 18533
+      },
+      {
+        "rect": [
+          0,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 0,
+        "sourceRect": [
+          23,
+          440,
+          185,
+          195
+        ],
+        "sourcePivot": [
+          73,
+          193
+        ],
+        "retainedPixels": 19097
+      },
+      {
+        "rect": [
+          384,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 1,
+        "sourceRect": [
+          216,
+          439,
+          186,
+          195
+        ],
+        "sourcePivot": [
+          75,
+          193
+        ],
+        "retainedPixels": 18872
+      },
+      {
+        "rect": [
+          768,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 2,
+        "sourceRect": [
+          405,
+          440,
+          216,
+          193
+        ],
+        "sourcePivot": [
+          81,
+          191
+        ],
+        "retainedPixels": 20636
+      },
+      {
+        "rect": [
+          1152,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 3,
+        "sourceRect": [
+          617,
+          439,
+          201,
+          194
+        ],
+        "sourcePivot": [
+          80,
+          192
+        ],
+        "retainedPixels": 18718
+      },
+      {
+        "rect": [
+          1536,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 4,
+        "sourceRect": [
+          815,
+          440,
+          203,
+          194
+        ],
+        "sourcePivot": [
+          81,
+          192
+        ],
+        "retainedPixels": 19283
+      },
+      {
+        "rect": [
+          1920,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 5,
+        "sourceRect": [
+          1028,
+          439,
+          190,
+          194
+        ],
+        "sourcePivot": [
+          73,
+          192
+        ],
+        "retainedPixels": 19367
+      },
+      {
+        "rect": [
+          0,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 0,
+        "sourceRect": [
+          19,
+          650,
+          176,
+          172
+        ],
+        "sourcePivot": [
+          77,
+          170
+        ],
+        "retainedPixels": 17619
+      },
+      {
+        "rect": [
+          384,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 1,
+        "sourceRect": [
+          210,
+          666,
+          205,
+          152
+        ],
+        "sourcePivot": [
+          82,
+          150
+        ],
+        "retainedPixels": 17686
+      },
+      {
+        "rect": [
+          768,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 2,
+        "sourceRect": [
+          428,
+          651,
+          205,
+          169
+        ],
+        "sourcePivot": [
+          76,
+          167
+        ],
+        "retainedPixels": 18964
+      },
+      {
+        "rect": [
+          1152,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 3,
+        "sourceRect": [
+          598,
+          673,
+          258,
+          146
+        ],
+        "sourcePivot": [
+          117,
+          144
+        ],
+        "retainedPixels": 18077
+      },
+      {
+        "rect": [
+          1536,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 4,
+        "sourceRect": [
+          850,
+          662,
+          184,
+          156
+        ],
+        "sourcePivot": [
+          76,
+          154
+        ],
+        "retainedPixels": 16894
+      },
+      {
+        "rect": [
+          1920,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 5,
+        "sourceRect": [
+          1041,
+          647,
+          175,
+          175
+        ],
+        "sourcePivot": [
+          73,
+          173
+        ],
+        "retainedPixels": 18046
+      },
+      {
+        "rect": [
+          0,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 0,
+        "sourceRect": [
+          29,
+          851,
+          174,
+          163
+        ],
+        "sourcePivot": [
+          87,
+          161
+        ],
+        "retainedPixels": 17947
+      },
+      {
+        "rect": [
+          384,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 1,
+        "sourceRect": [
+          231,
+          861,
+          180,
+          145
+        ],
+        "sourcePivot": [
+          90,
+          143
+        ],
+        "retainedPixels": 14516
+      },
+      {
+        "rect": [
+          768,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 2,
+        "sourceRect": [
+          444,
+          821,
+          143,
+          197
+        ],
+        "sourcePivot": [
+          71,
+          195
+        ],
+        "retainedPixels": 15618
+      },
+      {
+        "rect": [
+          1152,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 3,
+        "sourceRect": [
+          642,
+          870,
+          164,
+          142
+        ],
+        "sourcePivot": [
+          82,
+          140
+        ],
+        "retainedPixels": 15253
+      },
+      {
+        "rect": [
+          1536,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 4,
+        "sourceRect": [
+          841,
+          864,
+          191,
+          154
+        ],
+        "sourcePivot": [
+          95,
+          152
+        ],
+        "retainedPixels": 17810
+      },
+      {
+        "rect": [
+          1920,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 5,
+        "sourceRect": [
+          1047,
+          833,
+          170,
+          188
+        ],
+        "sourcePivot": [
+          85,
+          186
+        ],
+        "retainedPixels": 17841
+      },
+      {
+        "rect": [
+          0,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 0,
+        "sourceRect": [
+          20,
+          1032,
+          167,
+          218
+        ],
+        "sourcePivot": [
+          78,
+          216
+        ],
+        "retainedPixels": 20692
+      },
+      {
+        "rect": [
+          384,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 1,
+        "sourceRect": [
+          233,
+          1018,
+          168,
+          234
+        ],
+        "sourcePivot": [
+          79,
+          232
+        ],
+        "retainedPixels": 21664
+      },
+      {
+        "rect": [
+          768,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 2,
+        "sourceRect": [
+          424,
+          1032,
+          151,
+          220
+        ],
+        "sourcePivot": [
+          73,
+          218
+        ],
+        "retainedPixels": 20719
+      },
+      {
+        "rect": [
+          1152,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 3,
+        "sourceRect": [
+          578,
+          1042,
+          258,
+          209
+        ],
+        "sourcePivot": [
+          93,
+          207
+        ],
+        "retainedPixels": 22038
+      },
+      {
+        "rect": [
+          1536,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 4,
+        "sourceRect": [
+          835,
+          1033,
+          176,
+          222
+        ],
+        "sourcePivot": [
+          82,
+          220
+        ],
+        "retainedPixels": 22032
+      },
+      {
+        "rect": [
+          1920,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 5,
+        "sourceRect": [
+          1043,
+          1032,
+          165,
+          217
+        ],
+        "sourcePivot": [
+          84,
+          215
+        ],
+        "retainedPixels": 20391
+      }
+    ]
+  },
+  {
+    "direction": "SE",
+    "width": 2304,
+    "height": 1920,
+    "scale": 0.5011185682326622,
+    "sourceSHA256": "8972fc6f216ed6cd8e5ae0f2da236348a2a7e81d8c9c824f9a5cd1d9ea82c372",
+    "frames": [
+      {
+        "rect": [
+          0,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 0,
+        "sourceRect": [
+          30,
+          11,
+          154,
+          224
+        ],
+        "sourcePivot": [
+          71,
+          222
+        ],
+        "retainedPixels": 21592
+      },
+      {
+        "rect": [
+          384,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 1,
+        "sourceRect": [
+          245,
+          10,
+          156,
+          224
+        ],
+        "sourcePivot": [
+          73,
+          222
+        ],
+        "retainedPixels": 21766
+      },
+      {
+        "rect": [
+          768,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 2,
+        "sourceRect": [
+          450,
+          11,
+          153,
+          223
+        ],
+        "sourcePivot": [
+          71,
+          221
+        ],
+        "retainedPixels": 21646
+      },
+      {
+        "rect": [
+          1152,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 3,
+        "sourceRect": [
+          647,
+          11,
+          152,
+          224
+        ],
+        "sourcePivot": [
+          70,
+          222
+        ],
+        "retainedPixels": 21620
+      },
+      {
+        "rect": [
+          1536,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 4,
+        "sourceRect": [
+          855,
+          12,
+          155,
+          222
+        ],
+        "sourcePivot": [
+          70,
+          220
+        ],
+        "retainedPixels": 21821
+      },
+      {
+        "rect": [
+          1920,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 5,
+        "sourceRect": [
+          1061,
+          12,
+          149,
+          221
+        ],
+        "sourcePivot": [
+          69,
+          219
+        ],
+        "retainedPixels": 21549
+      },
+      {
+        "rect": [
+          0,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 0,
+        "sourceRect": [
+          22,
+          235,
+          169,
+          212
+        ],
+        "sourcePivot": [
+          73,
+          210
+        ],
+        "retainedPixels": 20804
+      },
+      {
+        "rect": [
+          384,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 1,
+        "sourceRect": [
+          236,
+          234,
+          166,
+          215
+        ],
+        "sourcePivot": [
+          70,
+          213
+        ],
+        "retainedPixels": 21110
+      },
+      {
+        "rect": [
+          768,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 2,
+        "sourceRect": [
+          435,
+          234,
+          168,
+          213
+        ],
+        "sourcePivot": [
+          72,
+          211
+        ],
+        "retainedPixels": 20923
+      },
+      {
+        "rect": [
+          1152,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 3,
+        "sourceRect": [
+          634,
+          236,
+          167,
+          209
+        ],
+        "sourcePivot": [
+          74,
+          207
+        ],
+        "retainedPixels": 20956
+      },
+      {
+        "rect": [
+          1536,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 4,
+        "sourceRect": [
+          847,
+          236,
+          168,
+          210
+        ],
+        "sourcePivot": [
+          71,
+          208
+        ],
+        "retainedPixels": 20881
+      },
+      {
+        "rect": [
+          1920,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 5,
+        "sourceRect": [
+          1048,
+          235,
+          165,
+          211
+        ],
+        "sourcePivot": [
+          72,
+          209
+        ],
+        "retainedPixels": 20979
+      },
+      {
+        "rect": [
+          0,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 0,
+        "sourceRect": [
+          18,
+          448,
+          185,
+          208
+        ],
+        "sourcePivot": [
+          72,
+          206
+        ],
+        "retainedPixels": 21454
+      },
+      {
+        "rect": [
+          384,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 1,
+        "sourceRect": [
+          202,
+          449,
+          206,
+          178
+        ],
+        "sourcePivot": [
+          84,
+          176
+        ],
+        "retainedPixels": 19880
+      },
+      {
+        "rect": [
+          768,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 2,
+        "sourceRect": [
+          415,
+          448,
+          210,
+          204
+        ],
+        "sourcePivot": [
+          78,
+          202
+        ],
+        "retainedPixels": 21701
+      },
+      {
+        "rect": [
+          1152,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 3,
+        "sourceRect": [
+          624,
+          450,
+          201,
+          205
+        ],
+        "sourcePivot": [
+          80,
+          203
+        ],
+        "retainedPixels": 21641
+      },
+      {
+        "rect": [
+          1536,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 4,
+        "sourceRect": [
+          819,
+          448,
+          212,
+          210
+        ],
+        "sourcePivot": [
+          75,
+          208
+        ],
+        "retainedPixels": 22103
+      },
+      {
+        "rect": [
+          1920,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 5,
+        "sourceRect": [
+          1034,
+          448,
+          190,
+          209
+        ],
+        "sourcePivot": [
+          77,
+          207
+        ],
+        "retainedPixels": 21315
+      },
+      {
+        "rect": [
+          0,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 0,
+        "sourceRect": [
+          18,
+          664,
+          179,
+          181
+        ],
+        "sourcePivot": [
+          76,
+          179
+        ],
+        "retainedPixels": 19343
+      },
+      {
+        "rect": [
+          384,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 1,
+        "sourceRect": [
+          206,
+          675,
+          211,
+          162
+        ],
+        "sourcePivot": [
+          89,
+          160
+        ],
+        "retainedPixels": 20185
+      },
+      {
+        "rect": [
+          768,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 2,
+        "sourceRect": [
+          422,
+          668,
+          208,
+          175
+        ],
+        "sourcePivot": [
+          85,
+          173
+        ],
+        "retainedPixels": 19870
+      },
+      {
+        "rect": [
+          1152,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 3,
+        "sourceRect": [
+          619,
+          684,
+          239,
+          158
+        ],
+        "sourcePivot": [
+          103,
+          156
+        ],
+        "retainedPixels": 21421
+      },
+      {
+        "rect": [
+          1536,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 4,
+        "sourceRect": [
+          829,
+          672,
+          200,
+          173
+        ],
+        "sourcePivot": [
+          86,
+          171
+        ],
+        "retainedPixels": 19698
+      },
+      {
+        "rect": [
+          1920,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 5,
+        "sourceRect": [
+          1031,
+          667,
+          184,
+          181
+        ],
+        "sourcePivot": [
+          80,
+          179
+        ],
+        "retainedPixels": 20092
+      },
+      {
+        "rect": [
+          0,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 0,
+        "sourceRect": [
+          16,
+          861,
+          176,
+          166
+        ],
+        "sourcePivot": [
+          88,
+          164
+        ],
+        "retainedPixels": 18471
+      },
+      {
+        "rect": [
+          384,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 1,
+        "sourceRect": [
+          219,
+          860,
+          203,
+          166
+        ],
+        "sourcePivot": [
+          101,
+          164
+        ],
+        "retainedPixels": 18983
+      },
+      {
+        "rect": [
+          768,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 2,
+        "sourceRect": [
+          446,
+          821,
+          155,
+          201
+        ],
+        "sourcePivot": [
+          77,
+          199
+        ],
+        "retainedPixels": 16896
+      },
+      {
+        "rect": [
+          1152,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 3,
+        "sourceRect": [
+          629,
+          870,
+          177,
+          158
+        ],
+        "sourcePivot": [
+          88,
+          156
+        ],
+        "retainedPixels": 17999
+      },
+      {
+        "rect": [
+          1536,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 4,
+        "sourceRect": [
+          832,
+          871,
+          200,
+          158
+        ],
+        "sourcePivot": [
+          100,
+          156
+        ],
+        "retainedPixels": 19312
+      },
+      {
+        "rect": [
+          1920,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 5,
+        "sourceRect": [
+          1037,
+          851,
+          178,
+          182
+        ],
+        "sourcePivot": [
+          89,
+          180
+        ],
+        "retainedPixels": 20520
+      },
+      {
+        "rect": [
+          0,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 0,
+        "sourceRect": [
+          16,
+          1033,
+          171,
+          222
+        ],
+        "sourcePivot": [
+          80,
+          220
+        ],
+        "retainedPixels": 22875
+      },
+      {
+        "rect": [
+          384,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 1,
+        "sourceRect": [
+          228,
+          1017,
+          184,
+          241
+        ],
+        "sourcePivot": [
+          86,
+          239
+        ],
+        "retainedPixels": 23951
+      },
+      {
+        "rect": [
+          768,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 2,
+        "sourceRect": [
+          425,
+          1024,
+          159,
+          235
+        ],
+        "sourcePivot": [
+          75,
+          233
+        ],
+        "retainedPixels": 22658
+      },
+      {
+        "rect": [
+          1152,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 3,
+        "sourceRect": [
+          590,
+          1033,
+          267,
+          223
+        ],
+        "sourcePivot": [
+          95,
+          221
+        ],
+        "retainedPixels": 25670
+      },
+      {
+        "rect": [
+          1536,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 4,
+        "sourceRect": [
+          827,
+          1033,
+          185,
+          225
+        ],
+        "sourcePivot": [
+          87,
+          223
+        ],
+        "retainedPixels": 23868
+      },
+      {
+        "rect": [
+          1920,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 5,
+        "sourceRect": [
+          1038,
+          1034,
+          177,
+          220
+        ],
+        "sourcePivot": [
+          86,
+          218
+        ],
+        "retainedPixels": 22848
+      }
+    ]
+  },
+  {
+    "direction": "S",
+    "width": 2304,
+    "height": 1920,
+    "scale": 0.5137614678899083,
+    "sourceSHA256": "81e682be974558014b511d68ba3221f18c42edb0859db1533627dbedbcad5172",
+    "frames": [
+      {
+        "rect": [
+          0,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 0,
+        "sourceRect": [
+          64,
+          7,
+          130,
+          217
+        ],
+        "sourcePivot": [
+          64,
+          215
+        ],
+        "retainedPixels": 18422
+      },
+      {
+        "rect": [
+          384,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 1,
+        "sourceRect": [
+          259,
+          7,
+          133,
+          218
+        ],
+        "sourcePivot": [
+          64,
+          216
+        ],
+        "retainedPixels": 18565
+      },
+      {
+        "rect": [
+          768,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 2,
+        "sourceRect": [
+          452,
+          7,
+          138,
+          218
+        ],
+        "sourcePivot": [
+          68,
+          216
+        ],
+        "retainedPixels": 18721
+      },
+      {
+        "rect": [
+          1152,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 3,
+        "sourceRect": [
+          651,
+          7,
+          139,
+          219
+        ],
+        "sourcePivot": [
+          68,
+          217
+        ],
+        "retainedPixels": 19132
+      },
+      {
+        "rect": [
+          1536,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 4,
+        "sourceRect": [
+          845,
+          7,
+          140,
+          219
+        ],
+        "sourcePivot": [
+          68,
+          217
+        ],
+        "retainedPixels": 19142
+      },
+      {
+        "rect": [
+          1920,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 5,
+        "sourceRect": [
+          1041,
+          7,
+          140,
+          218
+        ],
+        "sourcePivot": [
+          69,
+          216
+        ],
+        "retainedPixels": 18885
+      },
+      {
+        "rect": [
+          0,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 0,
+        "sourceRect": [
+          60,
+          223,
+          140,
+          218
+        ],
+        "sourcePivot": [
+          69,
+          216
+        ],
+        "retainedPixels": 19432
+      },
+      {
+        "rect": [
+          384,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 1,
+        "sourceRect": [
+          255,
+          224,
+          149,
+          218
+        ],
+        "sourcePivot": [
+          76,
+          216
+        ],
+        "retainedPixels": 19512
+      },
+      {
+        "rect": [
+          768,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 2,
+        "sourceRect": [
+          457,
+          224,
+          142,
+          217
+        ],
+        "sourcePivot": [
+          65,
+          215
+        ],
+        "retainedPixels": 18679
+      },
+      {
+        "rect": [
+          1152,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 3,
+        "sourceRect": [
+          650,
+          224,
+          148,
+          219
+        ],
+        "sourcePivot": [
+          74,
+          217
+        ],
+        "retainedPixels": 19329
+      },
+      {
+        "rect": [
+          1536,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 4,
+        "sourceRect": [
+          847,
+          224,
+          144,
+          219
+        ],
+        "sourcePivot": [
+          68,
+          217
+        ],
+        "retainedPixels": 19144
+      },
+      {
+        "rect": [
+          1920,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 5,
+        "sourceRect": [
+          1043,
+          224,
+          147,
+          219
+        ],
+        "sourcePivot": [
+          71,
+          217
+        ],
+        "retainedPixels": 19306
+      },
+      {
+        "rect": [
+          0,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 0,
+        "sourceRect": [
+          56,
+          440,
+          153,
+          214
+        ],
+        "sourcePivot": [
+          71,
+          212
+        ],
+        "retainedPixels": 19106
+      },
+      {
+        "rect": [
+          384,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 1,
+        "sourceRect": [
+          256,
+          442,
+          155,
+          207
+        ],
+        "sourcePivot": [
+          74,
+          205
+        ],
+        "retainedPixels": 18919
+      },
+      {
+        "rect": [
+          768,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 2,
+        "sourceRect": [
+          452,
+          442,
+          149,
+          214
+        ],
+        "sourcePivot": [
+          81,
+          212
+        ],
+        "retainedPixels": 18473
+      },
+      {
+        "rect": [
+          1152,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 3,
+        "sourceRect": [
+          649,
+          444,
+          152,
+          210
+        ],
+        "sourcePivot": [
+          80,
+          208
+        ],
+        "retainedPixels": 18635
+      },
+      {
+        "rect": [
+          1536,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 4,
+        "sourceRect": [
+          842,
+          443,
+          171,
+          210
+        ],
+        "sourcePivot": [
+          89,
+          208
+        ],
+        "retainedPixels": 19928
+      },
+      {
+        "rect": [
+          1920,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 5,
+        "sourceRect": [
+          1044,
+          442,
+          151,
+          211
+        ],
+        "sourcePivot": [
+          78,
+          209
+        ],
+        "retainedPixels": 19001
+      },
+      {
+        "rect": [
+          0,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 0,
+        "sourceRect": [
+          58,
+          662,
+          152,
+          189
+        ],
+        "sourcePivot": [
+          75,
+          187
+        ],
+        "retainedPixels": 18343
+      },
+      {
+        "rect": [
+          384,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 1,
+        "sourceRect": [
+          255,
+          665,
+          162,
+          173
+        ],
+        "sourcePivot": [
+          85,
+          171
+        ],
+        "retainedPixels": 16561
+      },
+      {
+        "rect": [
+          768,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 2,
+        "sourceRect": [
+          451,
+          647,
+          147,
+          201
+        ],
+        "sourcePivot": [
+          78,
+          199
+        ],
+        "retainedPixels": 16703
+      },
+      {
+        "rect": [
+          1152,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 3,
+        "sourceRect": [
+          634,
+          655,
+          173,
+          199
+        ],
+        "sourcePivot": [
+          102,
+          197
+        ],
+        "retainedPixels": 19448
+      },
+      {
+        "rect": [
+          1536,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 4,
+        "sourceRect": [
+          836,
+          661,
+          178,
+          181
+        ],
+        "sourcePivot": [
+          88,
+          179
+        ],
+        "retainedPixels": 20389
+      },
+      {
+        "rect": [
+          1920,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 5,
+        "sourceRect": [
+          1044,
+          652,
+          139,
+          189
+        ],
+        "sourcePivot": [
+          68,
+          187
+        ],
+        "retainedPixels": 17270
+      },
+      {
+        "rect": [
+          0,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 0,
+        "sourceRect": [
+          58,
+          855,
+          150,
+          181
+        ],
+        "sourcePivot": [
+          75,
+          179
+        ],
+        "retainedPixels": 17904
+      },
+      {
+        "rect": [
+          384,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 1,
+        "sourceRect": [
+          257,
+          871,
+          149,
+          144
+        ],
+        "sourcePivot": [
+          74,
+          142
+        ],
+        "retainedPixels": 13822
+      },
+      {
+        "rect": [
+          768,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 2,
+        "sourceRect": [
+          454,
+          847,
+          138,
+          178
+        ],
+        "sourcePivot": [
+          69,
+          176
+        ],
+        "retainedPixels": 14842
+      },
+      {
+        "rect": [
+          1152,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 3,
+        "sourceRect": [
+          630,
+          871,
+          162,
+          150
+        ],
+        "sourcePivot": [
+          81,
+          148
+        ],
+        "retainedPixels": 16017
+      },
+      {
+        "rect": [
+          1536,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 4,
+        "sourceRect": [
+          849,
+          857,
+          152,
+          180
+        ],
+        "sourcePivot": [
+          76,
+          178
+        ],
+        "retainedPixels": 18247
+      },
+      {
+        "rect": [
+          1920,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 5,
+        "sourceRect": [
+          1052,
+          840,
+          137,
+          198
+        ],
+        "sourcePivot": [
+          68,
+          196
+        ],
+        "retainedPixels": 17985
+      },
+      {
+        "rect": [
+          0,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 0,
+        "sourceRect": [
+          54,
+          1035,
+          158,
+          231
+        ],
+        "sourcePivot": [
+          75,
+          229
+        ],
+        "retainedPixels": 21436
+      },
+      {
+        "rect": [
+          384,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 1,
+        "sourceRect": [
+          244,
+          1022,
+          171,
+          246
+        ],
+        "sourcePivot": [
+          92,
+          244
+        ],
+        "retainedPixels": 23001
+      },
+      {
+        "rect": [
+          768,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 2,
+        "sourceRect": [
+          459,
+          1040,
+          156,
+          229
+        ],
+        "sourcePivot": [
+          81,
+          227
+        ],
+        "retainedPixels": 22156
+      },
+      {
+        "rect": [
+          1152,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 3,
+        "sourceRect": [
+          641,
+          1039,
+          173,
+          230
+        ],
+        "sourcePivot": [
+          97,
+          228
+        ],
+        "retainedPixels": 21912
+      },
+      {
+        "rect": [
+          1536,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 4,
+        "sourceRect": [
+          840,
+          1037,
+          179,
+          231
+        ],
+        "sourcePivot": [
+          95,
+          229
+        ],
+        "retainedPixels": 23356
+      },
+      {
+        "rect": [
+          1920,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 5,
+        "sourceRect": [
+          1047,
+          1035,
+          144,
+          231
+        ],
+        "sourcePivot": [
+          70,
+          229
+        ],
+        "retainedPixels": 20824
+      }
+    ]
+  },
+  {
+    "direction": "SW",
+    "width": 2304,
+    "height": 1920,
+    "scale": 0.5245901639344263,
+    "sourceSHA256": "a36d78075b071ea916a6656d0059aa892eb634547e0d3ecd85b849716e5d1f18",
+    "frames": [
+      {
+        "rect": [
+          0,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 0,
+        "sourceRect": [
+          48,
+          7,
+          131,
+          214
+        ],
+        "sourcePivot": [
+          65,
+          212
+        ],
+        "retainedPixels": 16926
+      },
+      {
+        "rect": [
+          384,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 1,
+        "sourceRect": [
+          239,
+          7,
+          133,
+          213
+        ],
+        "sourcePivot": [
+          64,
+          211
+        ],
+        "retainedPixels": 17026
+      },
+      {
+        "rect": [
+          768,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 2,
+        "sourceRect": [
+          429,
+          6,
+          135,
+          213
+        ],
+        "sourcePivot": [
+          66,
+          211
+        ],
+        "retainedPixels": 17156
+      },
+      {
+        "rect": [
+          1152,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 3,
+        "sourceRect": [
+          622,
+          7,
+          140,
+          215
+        ],
+        "sourcePivot": [
+          72,
+          213
+        ],
+        "retainedPixels": 17431
+      },
+      {
+        "rect": [
+          1536,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 4,
+        "sourceRect": [
+          822,
+          7,
+          140,
+          213
+        ],
+        "sourcePivot": [
+          70,
+          211
+        ],
+        "retainedPixels": 17737
+      },
+      {
+        "rect": [
+          1920,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 5,
+        "sourceRect": [
+          1027,
+          6,
+          136,
+          214
+        ],
+        "sourcePivot": [
+          70,
+          212
+        ],
+        "retainedPixels": 17814
+      },
+      {
+        "rect": [
+          0,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 0,
+        "sourceRect": [
+          39,
+          223,
+          140,
+          212
+        ],
+        "sourcePivot": [
+          76,
+          210
+        ],
+        "retainedPixels": 16541
+      },
+      {
+        "rect": [
+          384,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 1,
+        "sourceRect": [
+          231,
+          222,
+          144,
+          214
+        ],
+        "sourcePivot": [
+          78,
+          212
+        ],
+        "retainedPixels": 17035
+      },
+      {
+        "rect": [
+          768,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 2,
+        "sourceRect": [
+          434,
+          221,
+          141,
+          215
+        ],
+        "sourcePivot": [
+          75,
+          213
+        ],
+        "retainedPixels": 17136
+      },
+      {
+        "rect": [
+          1152,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 3,
+        "sourceRect": [
+          637,
+          222,
+          152,
+          214
+        ],
+        "sourcePivot": [
+          80,
+          212
+        ],
+        "retainedPixels": 18203
+      },
+      {
+        "rect": [
+          1536,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 4,
+        "sourceRect": [
+          835,
+          222,
+          148,
+          212
+        ],
+        "sourcePivot": [
+          78,
+          210
+        ],
+        "retainedPixels": 17680
+      },
+      {
+        "rect": [
+          1920,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 5,
+        "sourceRect": [
+          1038,
+          220,
+          148,
+          211
+        ],
+        "sourcePivot": [
+          79,
+          209
+        ],
+        "retainedPixels": 16688
+      },
+      {
+        "rect": [
+          0,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 0,
+        "sourceRect": [
+          36,
+          436,
+          176,
+          189
+        ],
+        "sourcePivot": [
+          101,
+          187
+        ],
+        "retainedPixels": 17937
+      },
+      {
+        "rect": [
+          384,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 1,
+        "sourceRect": [
+          235,
+          441,
+          176,
+          196
+        ],
+        "sourcePivot": [
+          105,
+          194
+        ],
+        "retainedPixels": 16609
+      },
+      {
+        "rect": [
+          768,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 2,
+        "sourceRect": [
+          430,
+          438,
+          181,
+          200
+        ],
+        "sourcePivot": [
+          103,
+          198
+        ],
+        "retainedPixels": 17971
+      },
+      {
+        "rect": [
+          1152,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 3,
+        "sourceRect": [
+          628,
+          442,
+          193,
+          199
+        ],
+        "sourcePivot": [
+          119,
+          197
+        ],
+        "retainedPixels": 17665
+      },
+      {
+        "rect": [
+          1536,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 4,
+        "sourceRect": [
+          830,
+          441,
+          187,
+          169
+        ],
+        "sourcePivot": [
+          110,
+          167
+        ],
+        "retainedPixels": 16134
+      },
+      {
+        "rect": [
+          1920,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 5,
+        "sourceRect": [
+          1037,
+          432,
+          161,
+          195
+        ],
+        "sourcePivot": [
+          92,
+          193
+        ],
+        "retainedPixels": 17507
+      },
+      {
+        "rect": [
+          0,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 0,
+        "sourceRect": [
+          33,
+          635,
+          156,
+          198
+        ],
+        "sourcePivot": [
+          86,
+          196
+        ],
+        "retainedPixels": 18999
+      },
+      {
+        "rect": [
+          384,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 1,
+        "sourceRect": [
+          234,
+          662,
+          173,
+          159
+        ],
+        "sourcePivot": [
+          100,
+          157
+        ],
+        "retainedPixels": 14672
+      },
+      {
+        "rect": [
+          768,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 2,
+        "sourceRect": [
+          430,
+          649,
+          179,
+          165
+        ],
+        "sourcePivot": [
+          105,
+          163
+        ],
+        "retainedPixels": 15158
+      },
+      {
+        "rect": [
+          1152,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 3,
+        "sourceRect": [
+          601,
+          653,
+          233,
+          167
+        ],
+        "sourcePivot": [
+          142,
+          165
+        ],
+        "retainedPixels": 18345
+      },
+      {
+        "rect": [
+          1536,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 4,
+        "sourceRect": [
+          829,
+          651,
+          209,
+          181
+        ],
+        "sourcePivot": [
+          113,
+          179
+        ],
+        "retainedPixels": 19770
+      },
+      {
+        "rect": [
+          1920,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 5,
+        "sourceRect": [
+          1060,
+          630,
+          136,
+          202
+        ],
+        "sourcePivot": [
+          72,
+          200
+        ],
+        "retainedPixels": 17446
+      },
+      {
+        "rect": [
+          0,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 0,
+        "sourceRect": [
+          31,
+          859,
+          156,
+          161
+        ],
+        "sourcePivot": [
+          78,
+          159
+        ],
+        "retainedPixels": 14866
+      },
+      {
+        "rect": [
+          384,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 1,
+        "sourceRect": [
+          237,
+          867,
+          161,
+          138
+        ],
+        "sourcePivot": [
+          80,
+          136
+        ],
+        "retainedPixels": 12618
+      },
+      {
+        "rect": [
+          768,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 2,
+        "sourceRect": [
+          433,
+          830,
+          139,
+          185
+        ],
+        "sourcePivot": [
+          69,
+          183
+        ],
+        "retainedPixels": 15183
+      },
+      {
+        "rect": [
+          1152,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 3,
+        "sourceRect": [
+          635,
+          841,
+          170,
+          173
+        ],
+        "sourcePivot": [
+          85,
+          171
+        ],
+        "retainedPixels": 14468
+      },
+      {
+        "rect": [
+          1536,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 4,
+        "sourceRect": [
+          839,
+          857,
+          173,
+          159
+        ],
+        "sourcePivot": [
+          86,
+          157
+        ],
+        "retainedPixels": 15827
+      },
+      {
+        "rect": [
+          1920,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 5,
+        "sourceRect": [
+          1064,
+          830,
+          138,
+          200
+        ],
+        "sourcePivot": [
+          69,
+          198
+        ],
+        "retainedPixels": 16468
+      },
+      {
+        "rect": [
+          0,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 0,
+        "sourceRect": [
+          30,
+          1038,
+          161,
+          224
+        ],
+        "sourcePivot": [
+          79,
+          222
+        ],
+        "retainedPixels": 19447
+      },
+      {
+        "rect": [
+          384,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 1,
+        "sourceRect": [
+          236,
+          1025,
+          168,
+          237
+        ],
+        "sourcePivot": [
+          80,
+          235
+        ],
+        "retainedPixels": 21524
+      },
+      {
+        "rect": [
+          768,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 2,
+        "sourceRect": [
+          436,
+          1026,
+          168,
+          236
+        ],
+        "sourcePivot": [
+          89,
+          234
+        ],
+        "retainedPixels": 21500
+      },
+      {
+        "rect": [
+          1152,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 3,
+        "sourceRect": [
+          605,
+          1041,
+          213,
+          220
+        ],
+        "sourcePivot": [
+          137,
+          218
+        ],
+        "retainedPixels": 20648
+      },
+      {
+        "rect": [
+          1536,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 4,
+        "sourceRect": [
+          835,
+          1038,
+          185,
+          219
+        ],
+        "sourcePivot": [
+          101,
+          217
+        ],
+        "retainedPixels": 21421
+      },
+      {
+        "rect": [
+          1920,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 5,
+        "sourceRect": [
+          1062,
+          1038,
+          146,
+          224
+        ],
+        "sourcePivot": [
+          74,
+          222
+        ],
+        "retainedPixels": 18618
+      }
+    ]
+  },
+  {
+    "direction": "W",
+    "width": 2304,
+    "height": 1920,
+    "scale": 0.5384615384615384,
+    "sourceSHA256": "2b1d0920e7c0c416f04c1c3efadded5deaf6225e37f80a380feabbd0e0011112",
+    "frames": [
+      {
+        "rect": [
+          0,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 0,
+        "sourceRect": [
+          49,
+          14,
+          136,
+          208
+        ],
+        "sourcePivot": [
+          65,
+          206
+        ],
+        "retainedPixels": 16228
+      },
+      {
+        "rect": [
+          384,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 1,
+        "sourceRect": [
+          245,
+          14,
+          133,
+          208
+        ],
+        "sourcePivot": [
+          62,
+          206
+        ],
+        "retainedPixels": 16186
+      },
+      {
+        "rect": [
+          768,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 2,
+        "sourceRect": [
+          434,
+          12,
+          138,
+          209
+        ],
+        "sourcePivot": [
+          65,
+          207
+        ],
+        "retainedPixels": 16783
+      },
+      {
+        "rect": [
+          1152,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 3,
+        "sourceRect": [
+          632,
+          14,
+          137,
+          208
+        ],
+        "sourcePivot": [
+          65,
+          206
+        ],
+        "retainedPixels": 16622
+      },
+      {
+        "rect": [
+          1536,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 4,
+        "sourceRect": [
+          831,
+          13,
+          138,
+          208
+        ],
+        "sourcePivot": [
+          66,
+          206
+        ],
+        "retainedPixels": 16632
+      },
+      {
+        "rect": [
+          1920,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 5,
+        "sourceRect": [
+          1044,
+          14,
+          136,
+          208
+        ],
+        "sourcePivot": [
+          64,
+          206
+        ],
+        "retainedPixels": 16411
+      },
+      {
+        "rect": [
+          0,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 0,
+        "sourceRect": [
+          43,
+          224,
+          156,
+          213
+        ],
+        "sourcePivot": [
+          80,
+          211
+        ],
+        "retainedPixels": 17515
+      },
+      {
+        "rect": [
+          384,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 1,
+        "sourceRect": [
+          231,
+          224,
+          163,
+          214
+        ],
+        "sourcePivot": [
+          86,
+          212
+        ],
+        "retainedPixels": 18751
+      },
+      {
+        "rect": [
+          768,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 2,
+        "sourceRect": [
+          430,
+          226,
+          158,
+          212
+        ],
+        "sourcePivot": [
+          79,
+          210
+        ],
+        "retainedPixels": 17099
+      },
+      {
+        "rect": [
+          1152,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 3,
+        "sourceRect": [
+          623,
+          225,
+          176,
+          212
+        ],
+        "sourcePivot": [
+          89,
+          210
+        ],
+        "retainedPixels": 18685
+      },
+      {
+        "rect": [
+          1536,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 4,
+        "sourceRect": [
+          826,
+          224,
+          176,
+          214
+        ],
+        "sourcePivot": [
+          94,
+          212
+        ],
+        "retainedPixels": 19158
+      },
+      {
+        "rect": [
+          1920,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 5,
+        "sourceRect": [
+          1037,
+          225,
+          173,
+          211
+        ],
+        "sourcePivot": [
+          86,
+          209
+        ],
+        "retainedPixels": 17857
+      },
+      {
+        "rect": [
+          0,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 0,
+        "sourceRect": [
+          28,
+          437,
+          196,
+          188
+        ],
+        "sourcePivot": [
+          117,
+          186
+        ],
+        "retainedPixels": 19204
+      },
+      {
+        "rect": [
+          384,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 1,
+        "sourceRect": [
+          226,
+          439,
+          187,
+          189
+        ],
+        "sourcePivot": [
+          116,
+          187
+        ],
+        "retainedPixels": 18621
+      },
+      {
+        "rect": [
+          768,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 2,
+        "sourceRect": [
+          415,
+          442,
+          200,
+          189
+        ],
+        "sourcePivot": [
+          123,
+          187
+        ],
+        "retainedPixels": 19312
+      },
+      {
+        "rect": [
+          1152,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 3,
+        "sourceRect": [
+          615,
+          442,
+          200,
+          187
+        ],
+        "sourcePivot": [
+          127,
+          185
+        ],
+        "retainedPixels": 18863
+      },
+      {
+        "rect": [
+          1536,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 4,
+        "sourceRect": [
+          818,
+          443,
+          206,
+          188
+        ],
+        "sourcePivot": [
+          125,
+          186
+        ],
+        "retainedPixels": 19023
+      },
+      {
+        "rect": [
+          1920,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 5,
+        "sourceRect": [
+          1028,
+          439,
+          187,
+          193
+        ],
+        "sourcePivot": [
+          114,
+          191
+        ],
+        "retainedPixels": 18258
+      },
+      {
+        "rect": [
+          0,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 0,
+        "sourceRect": [
+          28,
+          641,
+          190,
+          183
+        ],
+        "sourcePivot": [
+          117,
+          181
+        ],
+        "retainedPixels": 18737
+      },
+      {
+        "rect": [
+          384,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 1,
+        "sourceRect": [
+          238,
+          661,
+          183,
+          163
+        ],
+        "sourcePivot": [
+          100,
+          161
+        ],
+        "retainedPixels": 16912
+      },
+      {
+        "rect": [
+          768,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 2,
+        "sourceRect": [
+          421,
+          643,
+          190,
+          174
+        ],
+        "sourcePivot": [
+          122,
+          172
+        ],
+        "retainedPixels": 16234
+      },
+      {
+        "rect": [
+          1152,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 3,
+        "sourceRect": [
+          588,
+          660,
+          240,
+          164
+        ],
+        "sourcePivot": [
+          149,
+          162
+        ],
+        "retainedPixels": 19450
+      },
+      {
+        "rect": [
+          1536,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 4,
+        "sourceRect": [
+          832,
+          663,
+          192,
+          163
+        ],
+        "sourcePivot": [
+          110,
+          161
+        ],
+        "retainedPixels": 18306
+      },
+      {
+        "rect": [
+          1920,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 5,
+        "sourceRect": [
+          1051,
+          636,
+          149,
+          195
+        ],
+        "sourcePivot": [
+          76,
+          193
+        ],
+        "retainedPixels": 15657
+      },
+      {
+        "rect": [
+          0,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 0,
+        "sourceRect": [
+          30,
+          854,
+          174,
+          164
+        ],
+        "sourcePivot": [
+          87,
+          162
+        ],
+        "retainedPixels": 16425
+      },
+      {
+        "rect": [
+          384,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 1,
+        "sourceRect": [
+          238,
+          873,
+          184,
+          142
+        ],
+        "sourcePivot": [
+          92,
+          140
+        ],
+        "retainedPixels": 15015
+      },
+      {
+        "rect": [
+          768,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 2,
+        "sourceRect": [
+          455,
+          831,
+          131,
+          189
+        ],
+        "sourcePivot": [
+          65,
+          187
+        ],
+        "retainedPixels": 14568
+      },
+      {
+        "rect": [
+          1152,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 3,
+        "sourceRect": [
+          601,
+          859,
+          216,
+          157
+        ],
+        "sourcePivot": [
+          108,
+          155
+        ],
+        "retainedPixels": 15596
+      },
+      {
+        "rect": [
+          1536,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 4,
+        "sourceRect": [
+          813,
+          855,
+          207,
+          169
+        ],
+        "sourcePivot": [
+          103,
+          167
+        ],
+        "retainedPixels": 17962
+      },
+      {
+        "rect": [
+          1920,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 5,
+        "sourceRect": [
+          1045,
+          837,
+          153,
+          197
+        ],
+        "sourcePivot": [
+          76,
+          195
+        ],
+        "retainedPixels": 17185
+      },
+      {
+        "rect": [
+          0,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 0,
+        "sourceRect": [
+          25,
+          1041,
+          172,
+          216
+        ],
+        "sourcePivot": [
+          86,
+          214
+        ],
+        "retainedPixels": 19501
+      },
+      {
+        "rect": [
+          384,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 1,
+        "sourceRect": [
+          208,
+          1028,
+          202,
+          233
+        ],
+        "sourcePivot": [
+          113,
+          231
+        ],
+        "retainedPixels": 22220
+      },
+      {
+        "rect": [
+          768,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 2,
+        "sourceRect": [
+          431,
+          1031,
+          181,
+          229
+        ],
+        "sourcePivot": [
+          95,
+          227
+        ],
+        "retainedPixels": 21061
+      },
+      {
+        "rect": [
+          1152,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 3,
+        "sourceRect": [
+          581,
+          1041,
+          252,
+          218
+        ],
+        "sourcePivot": [
+          168,
+          216
+        ],
+        "retainedPixels": 22353
+      },
+      {
+        "rect": [
+          1536,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 4,
+        "sourceRect": [
+          835,
+          1040,
+          198,
+          217
+        ],
+        "sourcePivot": [
+          114,
+          215
+        ],
+        "retainedPixels": 21094
+      },
+      {
+        "rect": [
+          1920,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 5,
+        "sourceRect": [
+          1059,
+          1040,
+          149,
+          217
+        ],
+        "sourcePivot": [
+          72,
+          215
+        ],
+        "retainedPixels": 18530
+      }
+    ]
+  },
+  {
+    "direction": "NW",
+    "width": 2304,
+    "height": 1920,
+    "scale": 0.5490196078431373,
+    "sourceSHA256": "855abd969485374a2765905bece3aa8155d29f8a6a1fa8ee16749dc01991d705",
+    "frames": [
+      {
+        "rect": [
+          0,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 0,
+        "sourceRect": [
+          49,
+          6,
+          126,
+          205
+        ],
+        "sourcePivot": [
+          64,
+          203
+        ],
+        "retainedPixels": 15860
+      },
+      {
+        "rect": [
+          384,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 1,
+        "sourceRect": [
+          243,
+          9,
+          123,
+          204
+        ],
+        "sourcePivot": [
+          63,
+          202
+        ],
+        "retainedPixels": 15587
+      },
+      {
+        "rect": [
+          768,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 2,
+        "sourceRect": [
+          452,
+          9,
+          122,
+          204
+        ],
+        "sourcePivot": [
+          61,
+          202
+        ],
+        "retainedPixels": 15455
+      },
+      {
+        "rect": [
+          1152,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 3,
+        "sourceRect": [
+          645,
+          8,
+          127,
+          205
+        ],
+        "sourcePivot": [
+          64,
+          203
+        ],
+        "retainedPixels": 15583
+      },
+      {
+        "rect": [
+          1536,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 4,
+        "sourceRect": [
+          857,
+          9,
+          127,
+          204
+        ],
+        "sourcePivot": [
+          63,
+          202
+        ],
+        "retainedPixels": 15595
+      },
+      {
+        "rect": [
+          1920,
+          0,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 0,
+        "frame": 5,
+        "sourceRect": [
+          1049,
+          9,
+          127,
+          204
+        ],
+        "sourcePivot": [
+          63,
+          202
+        ],
+        "retainedPixels": 15636
+      },
+      {
+        "rect": [
+          0,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 0,
+        "sourceRect": [
+          33,
+          214,
+          156,
+          203
+        ],
+        "sourcePivot": [
+          79,
+          201
+        ],
+        "retainedPixels": 15678
+      },
+      {
+        "rect": [
+          384,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 1,
+        "sourceRect": [
+          231,
+          216,
+          156,
+          218
+        ],
+        "sourcePivot": [
+          88,
+          216
+        ],
+        "retainedPixels": 16845
+      },
+      {
+        "rect": [
+          768,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 2,
+        "sourceRect": [
+          439,
+          219,
+          159,
+          214
+        ],
+        "sourcePivot": [
+          89,
+          212
+        ],
+        "retainedPixels": 16556
+      },
+      {
+        "rect": [
+          1152,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 3,
+        "sourceRect": [
+          635,
+          214,
+          164,
+          218
+        ],
+        "sourcePivot": [
+          88,
+          216
+        ],
+        "retainedPixels": 17140
+      },
+      {
+        "rect": [
+          1536,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 4,
+        "sourceRect": [
+          845,
+          216,
+          156,
+          217
+        ],
+        "sourcePivot": [
+          89,
+          215
+        ],
+        "retainedPixels": 16675
+      },
+      {
+        "rect": [
+          1920,
+          320,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 1,
+        "frame": 5,
+        "sourceRect": [
+          1051,
+          218,
+          153,
+          214
+        ],
+        "sourcePivot": [
+          82,
+          212
+        ],
+        "retainedPixels": 15640
+      },
+      {
+        "rect": [
+          0,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 0,
+        "sourceRect": [
+          39,
+          427,
+          169,
+          218
+        ],
+        "sourcePivot": [
+          99,
+          216
+        ],
+        "retainedPixels": 17209
+      },
+      {
+        "rect": [
+          384,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 1,
+        "sourceRect": [
+          233,
+          435,
+          186,
+          217
+        ],
+        "sourcePivot": [
+          107,
+          215
+        ],
+        "retainedPixels": 17906
+      },
+      {
+        "rect": [
+          768,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 2,
+        "sourceRect": [
+          437,
+          435,
+          185,
+          203
+        ],
+        "sourcePivot": [
+          112,
+          201
+        ],
+        "retainedPixels": 17444
+      },
+      {
+        "rect": [
+          1152,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 3,
+        "sourceRect": [
+          634,
+          429,
+          190,
+          213
+        ],
+        "sourcePivot": [
+          115,
+          211
+        ],
+        "retainedPixels": 18633
+      },
+      {
+        "rect": [
+          1536,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 4,
+        "sourceRect": [
+          844,
+          434,
+          178,
+          215
+        ],
+        "sourcePivot": [
+          109,
+          213
+        ],
+        "retainedPixels": 17434
+      },
+      {
+        "rect": [
+          1920,
+          640,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 2,
+        "frame": 5,
+        "sourceRect": [
+          1037,
+          432,
+          171,
+          215
+        ],
+        "sourcePivot": [
+          105,
+          213
+        ],
+        "retainedPixels": 17186
+      },
+      {
+        "rect": [
+          0,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 0,
+        "sourceRect": [
+          32,
+          647,
+          172,
+          182
+        ],
+        "sourcePivot": [
+          89,
+          180
+        ],
+        "retainedPixels": 16442
+      },
+      {
+        "rect": [
+          384,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 1,
+        "sourceRect": [
+          230,
+          647,
+          178,
+          172
+        ],
+        "sourcePivot": [
+          89,
+          170
+        ],
+        "retainedPixels": 16315
+      },
+      {
+        "rect": [
+          768,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 2,
+        "sourceRect": [
+          433,
+          648,
+          177,
+          182
+        ],
+        "sourcePivot": [
+          103,
+          180
+        ],
+        "retainedPixels": 16275
+      },
+      {
+        "rect": [
+          1152,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 3,
+        "sourceRect": [
+          610,
+          654,
+          198,
+          193
+        ],
+        "sourcePivot": [
+          110,
+          191
+        ],
+        "retainedPixels": 17492
+      },
+      {
+        "rect": [
+          1536,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 4,
+        "sourceRect": [
+          833,
+          650,
+          164,
+          172
+        ],
+        "sourcePivot": [
+          84,
+          170
+        ],
+        "retainedPixels": 15774
+      },
+      {
+        "rect": [
+          1920,
+          960,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 3,
+        "frame": 5,
+        "sourceRect": [
+          1045,
+          646,
+          153,
+          194
+        ],
+        "sourcePivot": [
+          88,
+          192
+        ],
+        "retainedPixels": 16538
+      },
+      {
+        "rect": [
+          0,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 0,
+        "sourceRect": [
+          39,
+          839,
+          165,
+          175
+        ],
+        "sourcePivot": [
+          82,
+          173
+        ],
+        "retainedPixels": 16008
+      },
+      {
+        "rect": [
+          384,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 1,
+        "sourceRect": [
+          242,
+          841,
+          160,
+          164
+        ],
+        "sourcePivot": [
+          80,
+          162
+        ],
+        "retainedPixels": 14706
+      },
+      {
+        "rect": [
+          768,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 2,
+        "sourceRect": [
+          443,
+          837,
+          142,
+          179
+        ],
+        "sourcePivot": [
+          71,
+          177
+        ],
+        "retainedPixels": 16298
+      },
+      {
+        "rect": [
+          1152,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 3,
+        "sourceRect": [
+          638,
+          871,
+          157,
+          147
+        ],
+        "sourcePivot": [
+          78,
+          145
+        ],
+        "retainedPixels": 15038
+      },
+      {
+        "rect": [
+          1536,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 4,
+        "sourceRect": [
+          854,
+          846,
+          154,
+          172
+        ],
+        "sourcePivot": [
+          77,
+          170
+        ],
+        "retainedPixels": 16206
+      },
+      {
+        "rect": [
+          1920,
+          1280,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 4,
+        "frame": 5,
+        "sourceRect": [
+          1054,
+          844,
+          143,
+          180
+        ],
+        "sourcePivot": [
+          71,
+          178
+        ],
+        "retainedPixels": 15367
+      },
+      {
+        "rect": [
+          0,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 0,
+        "sourceRect": [
+          46,
+          1031,
+          147,
+          215
+        ],
+        "sourcePivot": [
+          80,
+          213
+        ],
+        "retainedPixels": 17994
+      },
+      {
+        "rect": [
+          384,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 1,
+        "sourceRect": [
+          240,
+          1025,
+          156,
+          228
+        ],
+        "sourcePivot": [
+          87,
+          226
+        ],
+        "retainedPixels": 18881
+      },
+      {
+        "rect": [
+          768,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 2,
+        "sourceRect": [
+          441,
+          1032,
+          163,
+          217
+        ],
+        "sourcePivot": [
+          89,
+          215
+        ],
+        "retainedPixels": 19406
+      },
+      {
+        "rect": [
+          1152,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 3,
+        "sourceRect": [
+          636,
+          1033,
+          190,
+          223
+        ],
+        "sourcePivot": [
+          113,
+          221
+        ],
+        "retainedPixels": 19622
+      },
+      {
+        "rect": [
+          1536,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 4,
+        "sourceRect": [
+          851,
+          1033,
+          167,
+          218
+        ],
+        "sourcePivot": [
+          92,
+          216
+        ],
+        "retainedPixels": 19116
+      },
+      {
+        "rect": [
+          1920,
+          1600,
+          384,
+          320
+        ],
+        "pivot": [
+          192,
+          292
+        ],
+        "action": 5,
+        "frame": 5,
+        "sourceRect": [
+          1058,
+          1034,
+          153,
+          216
+        ],
+        "sourcePivot": [
+          85,
+          214
+        ],
+        "retainedPixels": 18320
+      }
+    ]
+  }
+]
