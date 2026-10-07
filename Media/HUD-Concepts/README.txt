@@ -1,5 +1,11 @@
 AER HUD CONCEPTS — 2026-10-07
 
+LATEST REVISION: B-Ember-Astrolabe-Contour-v3.png. User requested three rows
+of two spell tiles following the curved mana gauge. Generated as a targeted
+edit of compact v2; retains its small lower-left circular resource HUD.
+Top: arcane/flame. Middle: ice protection/lightning. Bottom: frost nova/healing.
+This supersedes v2's two-row arrangement. Still concept artwork only.
+
 SELECTED DIRECTION: B, Ember Astrolabe. The user prefers the lower-left round
 health/mana HUD with the spell ribbon extending from it, at a smaller size.
 B-Ember-Astrolabe-Compact-v2.png refines that layout with a target 25% reduction
