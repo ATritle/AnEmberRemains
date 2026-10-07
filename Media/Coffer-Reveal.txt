@@ -1,0 +1,20 @@
+ELITE-GATED HIDDEN DESCENT
+
+The floor's designated Vigil Justiciar guards the sealed stone coffer in the
+descent chamber. Defeating it breaks the seal and slides the coffer aside over
+2.4 seconds, with dust and stone movement audio. The staircase starts hidden.
+Its minimap marker and E-to-descend prompt appear only when the reveal finishes.
+The coffer waits if Mara or a living enemy occupies its path. Pause and map
+inspection pause the movement. Each newly generated floor starts sealed again.
+
+Coffer-Revealed.png is captured from the packaged game after the elite dies.
+The elite remains distinct from the planned region boss, Mother Caldris.
+Environment-only reviews bypass the combat gate; normal play requires the elite.
+
+Validation: Windows package succeeded; ISO_VERIFY checks=992408 errors=0.
+Coverage includes one guardian per floor, its location, closed/open route
+connectivity across 128 seeds, ordinary kills and nonlethal hits remaining locked,
+elite death, blocked movement, pause handling, and reset over three descents.
+
+As with prior previews, GitHub contains review media. Updated source and the
+playable Windows build remain in the local project.
