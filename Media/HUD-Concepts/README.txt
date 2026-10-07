@@ -1,5 +1,11 @@
 AER HUD CONCEPTS — 2026-10-07
 
+V4 ROUND-BUTTON COMPARISON: the user requested round spell buttons and an
+additional L-shaped option. B-Round-Contour-v4.png uses three pairs wrapping
+around the mana gauge. B-Round-L-Shape-v4.png uses two horizontal rows of three
+extending to the right near the bottom, creating an L with the tall left HUD.
+Both are generated edits of v3. Neither new layout has been selected yet.
+
 LATEST REVISION: B-Ember-Astrolabe-Contour-v3.png. User requested three rows
 of two spell tiles following the curved mana gauge. Generated as a targeted
 edit of compact v2; retains its small lower-left circular resource HUD.
