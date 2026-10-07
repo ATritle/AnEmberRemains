@@ -27,4 +27,4 @@ ArtSource/Audio/v1/Originals
 ArtSource/Audio/v1/manifest.json
 Tools/prepare_dungeon_audio.py
 
-No creature sounds are used to imply enemies in the current environment test.
+Enemy combat feedback reuses these assets with per-enemy pitch and gain: cloth, metal-like shatter, magical ignition, phase and arcane cues. No additional third-party audio sources were added.

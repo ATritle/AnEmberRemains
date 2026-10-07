@@ -1,0 +1,18 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Hushed Cloisters · Combat review</title>
+<style>body{margin:0;background:#10151a;color:#e5ddce;font:16px system-ui}main{max-width:1100px;margin:auto;padding:28px}h1{font:34px Georgia;margin:10px 0}p{color:#aeb8c0;line-height:1.6}.eyebrow{color:#c99c60;font-size:12px;letter-spacing:3px}video{display:block;width:100%;background:#080b0e;border:1px solid #394653;border-radius:8px}nav{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;align-items:center}button,select{font:inherit;color:inherit;background:#24303b;border:1px solid #526170;border-radius:5px;padding:10px;cursor:pointer}#hint{padding:16px;border-left:3px solid #c99c60;background:#19232c}a{color:#e2b87f}small{color:#aeb8c0}</style>
+<main><div class="eyebrow">AN EMBER REMAINS / HUSHED CLOISTERS</div><h1>Enemy combat feedback</h1><p>Five enemies. Cast cues, magical light, weapon impacts and death reactions, captured in the playable dungeon renderer.</p>
+<video id="movie" controls preload="auto" playsinline src="Enemy-Combat-Preview.mp4"></video>
+<nav><label>Enemy <select id="chapter"><option value="0">Bound Penitent</option><option value="1">Vigil Warden</option><option value="2">Censer Acolyte</option><option value="3">Reliquary Guard</option><option value="4">Vigil Justiciar</option></select></label><button id="previous">Previous frame</button><button id="next">Next frame</button><button id="restart">Replay chapter</button><label>Speed <select id="speed"><option value="1">Normal</option><option value="0.5">Half speed</option><option value="0.25">Quarter speed</option></select></label><label><input id="loop" type="checkbox"> Loop chapter</label><span id="counter"></span></nav>
+<p id="hint"></p><p><small>Each 12-second chapter: spawn → idle → walk → attacks → stagger → impact → death. Frame stepping pauses playback. Fullscreen is available in the video controls.</small></p>
+<p><a href="Enemy-Combat-Preview.md">Review notes</a> · <a href="Dungeon-Audio-Credits.txt">Audio credits</a></p></main>
+<script>
+const movie=document.querySelector('#movie'),chapter=document.querySelector('#chapter'),counter=document.querySelector('#counter'),hints=['Watch the short physical windup, binding rattle and subdued cloth/dust reaction.','Watch the baton windup and physical strike; there is no ranged projectile.','Watch the ember seal build, then follow the projectile and its light across the floor to impact.','Watch the heavy mace swing, brief armor sparks and released enchantment at death.','Watch the violet seal and enchanted polearm sweep. The enchantment keeps the existing melee reach.'];
+function hint(){document.querySelector('#hint').textContent=hints[Number(chapter.value)]}hint();
+function seek(t){movie.currentTime=Math.max(0,Math.min(movie.duration||60,t))}
+chapter.onchange=()=>{seek(Number(chapter.value)*12);hint()};
+document.querySelector('#previous').onclick=()=>{movie.pause();seek((Math.round(movie.currentTime*15)-1)/15+.001)};
+document.querySelector('#next').onclick=()=>{movie.pause();seek((Math.round(movie.currentTime*15)+1)/15+.001)};
+document.querySelector('#restart').onclick=()=>{seek(Number(chapter.value)*12);movie.play()};
+document.querySelector('#speed').onchange=e=>movie.playbackRate=Number(e.target.value);
+movie.ontimeupdate=()=>{const selected=Number(chapter.value);if(document.querySelector('#loop').checked&&movie.currentTime>=(selected+1)*12-.02){seek(selected*12);return}if(!document.querySelector('#loop').checked){chapter.value=Math.min(4,Math.floor(movie.currentTime/12));hint()}counter.textContent=`${movie.currentTime.toFixed(2)}s · frame ${Math.floor(movie.currentTime*15)+1}`};
+</script></html>
